@@ -1,7 +1,7 @@
-# (Experimental) Push demo for Crazyflie 2.x
+# Push demo for Crazyflie 2.x
 
 This repos contains the push demo for Cazyflie 2.x.
-It uses an experimental out-of-tree build functionality.
+It uses out-of-tree build functionality of the Crazyflie firmware and is implemented as a deck driver.
 
 This demo works with a Crazyflie 2.x with Flow deck and Multiranger deck attached.
 When running, the crazyflie will wait for an object to get close to the top ranging sensor.
